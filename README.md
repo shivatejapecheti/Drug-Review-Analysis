@@ -56,14 +56,14 @@ Each task was achieved through systematic data handling, application of appropri
 
 ## Definitions
 
-NLTK (Natural Language Toolkit):
-Definition: NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning.
+NLTK (Natural Language Toolkit): NLTK is a leading platform for building Python programs to work with human language data. 
++ It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning.
 
-VADER (Valence Aware Dictionary and sEntiment Reasoner):
-Definition: VADER is a rule-based sentiment analysis tool specifically designed for analyzing sentiments expressed in social media. It quantifies the sentiment of text into positive, negative, or neutral scores, as well as a compound score that combines all three.
+VADER (Valence Aware Dictionary and sEntiment Reasoner): VADER is a rule-based sentiment analysis tool specifically designed for analyzing sentiments expressed in social media. 
++ It quantifies the sentiment of text into positive, negative, or neutral scores, as well as a compound score that combines all three.
 
-TF-IDF (Term Frequency-Inverse Document Frequency):
-Definition: TF-IDF is a statistical measure used to evaluate how important a word is to a document within a collection or corpus. It computes a weight for each word in a document based on its frequency (TF) and inverse document frequency (IDF), emphasizing words that are more frequent in a particular document but not across the entire corpus.
+TF-IDF (Term Frequency-Inverse Document Frequency): TF-IDF is a statistical measure used to evaluate how important a word is to a document within a collection or corpus. 
++ It computes a weight for each word in a document based on its frequency (TF) and inverse document frequency (IDF), emphasizing words that are more frequent in a particular document but not across the entire corpus.
 
 Machine Learning Models:
 Definition: Machine learning models are algorithms that learn patterns and make decisions from data. 
